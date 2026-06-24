@@ -19,9 +19,7 @@ Objetivos del Proyecto
 Aplicar el desarrollo de aplicaciones conectadas a bases de datos.
 Implementar mecanismos básicos de seguridad y autenticación.
 Diseñar una solución informática para la administración hotelera.
-Capturas de Pantalla
 
-Agregar capturas de la interfaz aquí.
 
 Autor
 
